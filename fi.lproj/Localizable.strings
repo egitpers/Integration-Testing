@@ -9,7 +9,7 @@
 "login.link.username.text" = "Tee käyttäjätunnus";
 "login.link.didYouForget.text1" = "Unohtuiko ";  // keep the space at the end
 "login.link.didYouForget.text2" = "käyttäjätunnus tai salasana?";
-"login.link.continueNotLoggedIn.text" = "Linkit muihin palveluihin";
+"login.link.continueNotLoggedIn.text" = "Linkit muihin palveluihin, ja uudet asetukset";
 
 // first use experience
 "fue.1st.slide.title" = "Kirjaudu omalla käyttäjätunnuksella";
@@ -26,3 +26,4 @@
 // main view titles
 "inbox.title" = "Postilaatikko";
 "services.title" = "Palvelut";
+"archive.title" = "Arkisto";
