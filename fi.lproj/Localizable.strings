@@ -1,17 +1,14 @@
-// login
 "login.topLabel.title" = "Kirjaudu omalla käyttäjätunnuksella";
 "login.topLabel.subTitle" = "Sama tunnus käy muihin palveluihin.";
 "login.username.label" = "Käyttäjätunnus";
 "login.password.label" = "Salasana";
 "login.button.title" = "Kirjaudu";
-"login.link.terms.text1" = "Jatkamalla hyväksyt ";  // keep the space at the end
+"login.link.terms.text1" = "Jatkamalla hyväksyt ";
 "login.link.terms.text2" = "käyttöehdot";
 "login.link.username.text" = "Tee käyttäjätunnus";
-"login.link.didYouForget.text1" = "Unohtuiko ";  // keep the space at the end
+"login.link.didYouForget.text1" = "Unohtuiko ";
 "login.link.didYouForget.text2" = "käyttäjätunnus tai salasana?";
 "login.link.continueNotLoggedIn.text" = "Linkit muihin palveluihin, ja uudet asetukset";
-
-// first use experience
 "fue.1st.slide.title" = "Kirjaudu omalla käyttäjätunnuksella";
 "fue.1st.slide.subtitle" = "Sama tunnus käy muihin palveluihin";
 "fue.2nd.slide.title" = "Ota käyttöön uusi postilaatikko, jolla hallitset laskuja, kirjeitä ja paketteja.";
@@ -22,8 +19,6 @@
 "fue.login.button" = "Kirjaudu";
 "fue.createusername.button" = "Luo tunnus";
 "fue.servicelinks.button" = "Linkit muihin palveluihin";
-
-// main view titles
 "inbox.title" = "Postilaatikko";
 "services.title" = "Palvelut";
 "archive.title" = "Arkisto";
