@@ -1,3 +1,4 @@
+/* login */
 "login.topLabel.title" = "Kirjaudu omalla käyttäjätunnuksella";
 "login.topLabel.subTitle" = "Sama tunnus käy muihin palveluihin.";
 "login.username.label" = "Käyttäjätunnus";
@@ -6,9 +7,10 @@
 "login.link.terms.text1" = "Jatkamalla hyväksyt ";
 "login.link.terms.text2" = "käyttöehdot";
 "login.link.username.text" = "Tee käyttäjätunnus";
-"login.link.didYouForget.text1" = "Unohtuiko ";
-"login.link.didYouForget.text2" = "käyttäjätunnus tai salasana?";
+"login.link.didYouForget.text1" = "Did you forget ";
+"login.link.didYouForget.text2" = "your username or password?";
 "login.link.continueNotLoggedIn.text" = "Linkit muihin palveluihin, ja uudet asetukset";
+/* first use experience */
 "fue.1st.slide.title" = "Kirjaudu omalla käyttäjätunnuksella";
 "fue.1st.slide.subtitle" = "The same id is used for other services";
 "fue.2nd.slide.title" = "Use a new mailbox and manage invoices, letters and parcels.";
@@ -19,6 +21,7 @@
 "fue.login.button" = "Log in";
 "fue.createusername.button" = "Create an account";
 "fue.servicelinks.button" = "Links to other services";
+/* main view titles */
 "inbox.title" = "Mailbox";
 "services.title" = "Services";
 "archive.title" = "Archive";
