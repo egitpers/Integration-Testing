@@ -1,1 +1,24 @@
-
+"login.topLabel.title" = "Kirjaudu omalla käyttäjätunnuksella";
+"login.topLabel.subTitle" = "Sama tunnus käy muihin palveluihin.";
+"login.username.label" = "Käyttäjätunnus";
+"login.password.label" = "Salasana";
+"login.button.title" = "Kirjaudu";
+"login.link.terms.text1" = "Jatkamalla hyväksyt ";
+"login.link.terms.text2" = "käyttöehdot";
+"login.link.username.text" = "Tee käyttäjätunnus";
+"login.link.didYouForget.text1" = "Unohtuiko ";
+"login.link.didYouForget.text2" = "käyttäjätunnus tai salasana?";
+"login.link.continueNotLoggedIn.text" = "Linkit muihin palveluihin, ja uudet asetukset";
+"fue.1st.slide.title" = "Kirjaudu omalla käyttäjätunnuksella";
+"fue.1st.slide.subtitle" = "The same id is used for other services";
+"fue.2nd.slide.title" = "Use a new mailbox and manage invoices, letters and parcels.";
+"fue.3rd.slide.title" = "Pay your bills on time without wasting time.";
+"fue.3rd.slide.subtitle" = "So far payment is only possible using the Pallo application";
+"fue.4th.slide.title" = "Follow the status of your parcels and remember to fetch them in time.";
+"fue.5th.slide.title" = "Archive and find old invoices and letters for seven years.";
+"fue.login.button" = "Log in";
+"fue.createusername.button" = "Create an account";
+"fue.servicelinks.button" = "Links to other services";
+"inbox.title" = "Mailbox";
+"services.title" = "Services";
+"archive.title" = "Archive";
