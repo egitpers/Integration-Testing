@@ -22,3 +22,7 @@
 "fue.login.button" = "Kirjaudu";
 "fue.createusername.button" = "Luo tunnus";
 "fue.servicelinks.button" = "Linkit muihin palveluihin";
+
+// main view titles
+"inbox.title" = "Postilaatikko";
+"services.title" = "Palvelut";
